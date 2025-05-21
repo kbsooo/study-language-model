@@ -15,8 +15,8 @@ WikiExtractor로 위키 데이터셋을 txt로 바꿈
 
 - [X] [The spelled-out intro to neural networks and backpropagation: building micrograd](https://youtu.be/VMj-3S1tku0?si=wzwuY7FB-2VVHghH)
 - [X] [The spelled-out intro to language modeling: building makemore](https://www.youtube.com/watch?v=PaCmpygFfXo&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=2)
-- [ ] [Building makemore Part 2: MLP](https://youtu.be/TCH_1BHY58I?si=a5eiczYMcWA7Kijg)
-- [ ] [Building makemore Part 3: Activations & Gradients, BatchNorm]()
+- [X] [Building makemore Part 2: MLP](https://youtu.be/TCH_1BHY58I?si=a5eiczYMcWA7Kijg)
+- [ ] [Building makemore Part 3: Activations & Gradients, BatchNorm](https://www.youtube.com/watch?v=P6sfmUTpUmc&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=4)
 - [ ] [Building makemore Part 4: Becoming a Backdrop Ninja]()
 - [ ] [Building makemore Part 5: Building a WaveNet]()
 - [ ] [Let's build GPT: from scratch, in code, spelled out]()
